@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "989549273358",
+    "project_id": "venta-de-termos",
+    "storage_bucket": "venta-de-termos.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:989549273358:android:8972beadb6046bf205775f",
+        "android_client_info": {
+          "package_name": "com.example.flutter_appliacion_3"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6lSspgOaBUqH3C-8qRE_1VaNgRbwxUd8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:989549273358:android:dc94adc7ac916c0405775f",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_3"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6lSspgOaBUqH3C-8qRE_1VaNgRbwxUd8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
