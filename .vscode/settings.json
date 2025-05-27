@@ -1,5 +1,6 @@
 {
     "files.associations": {
         "plyconfig.json": "jsonc"
-    }
+    },
+    "cmake.sourceDirectory": "/home/eric/flutter_application_3/flutter_application_1-1/linux"
 }
